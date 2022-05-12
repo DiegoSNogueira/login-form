@@ -1,0 +1,28 @@
+body, .row{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#menu{
+    height: 100vh;
+    background-color: rgba(166, 205, 239, 1);
+}
+h4, label{
+    color:#74baf7;
+}
+
+.row{
+    height: 60vh;
+    width: 60vw;
+}
+.col-right{
+    background-color: white;   
+    padding: 25px !important;
+}
+.col-left{
+    background-image: url('logo.png');
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
